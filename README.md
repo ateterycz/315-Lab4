@@ -1,4 +1,4 @@
-# 315 Intro to Database Systems - Lab4
+# CSC 315 Intro to Database Systems - Lab4
 
 A simple assignment in which there are two fields for input on a simple web page that interacts with a database.
 A select input, which takes a text input of a specific food and outputs the associated details from the database.
